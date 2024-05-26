@@ -1,0 +1,106 @@
+.bagiannama {
+    background-color: rgb(255, 255, 255);
+    background-size: width=1680, height=100px;  
+    height: 250px;
+      
+  }
+  
+  .bagiannama p {
+      color: black;
+      text-align: center;
+      font-family: "Raleway"sans-serif,serif;
+      margin: 0;
+      margin-top: -50px;
+      margin-bottom: 50px;
+      padding: 30px;
+      
+  }
+  
+    
+    
+  .textbrand {
+      font-family: "Raleway",sans-serif;
+  }
+  .bagiannama h1 {
+      color: black;
+      text-align: center;
+      font-family: "Raleway",sans-serif;
+      margin: 0;
+      margin-top: 110px;
+      padding: 30px;
+  }
+  
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+  
+  .fotodandiri {
+      display: flex;
+      justify-content: space-evenly;
+      padding: 60px;
+      background: linear-gradient(
+        to right,
+        rgb(177, 133, 0) 0%,
+        rgb(177, 133, 0) 50%,
+        rgb(238, 170, 0) 50%,
+        rgb(237, 170, 0) 100%
+      );
+    }
+  
+  
+  .penulis {
+      width: 400px;
+  }
+  
+  .penulis p {
+      font-family:"Raleway",sans-serif;
+      font-size: 16px;
+      color: rgb(255, 255, 255);
+  }
+  
+  .penulis h1 {
+      font-family:"Raleway",sans-serif;
+      font-size: 35px;
+      color: rgb(255, 255, 255);
+      margin-top: 30px;
+  }
+  .kemampuan {
+      display: flex;
+      justify-content: space-around;
+      background-color: rgb(255, 255, 255);
+      padding: 40px;
+      height: 600px;
+  }
+      
+  .kemampuan .card1 img, .card2 img, .card3 img {
+      border-radius: 0px;
+      margin-top: 50px;
+      box-sizing: border-box;
+      width: 350px;
+  }
+  
+  .kemampuan .card2 img {
+      height: 199px;
+  }
+  
+  .kemampuan .card3 img {
+      height: 199px;
+  }
+          
+  .kemampuan h5 {
+      font-family: "Raleway",sans-serif;
+      text-align: center;
+      font-size: 23px;
+      margin: 20px;
+  }
+  
+  .kemampuan p {
+      font-family: "Raleway",sans-serif;
+      text-align: justify;
+      font-size: 15px;
+      margin: 30px;
+  }
+          
+  .kemampuan1 {
+      font-size: 30px;
+      font-family: "Raleway", serif;
+  }
